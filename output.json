@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Bitcoin",
+        "price": "$10309.62",
+        "percent_change": "-1.21%",
+        "market_cap": "$184,804,583,212",
+        "volume": "$16,613,147,058",
+        "circulating_supply": "17925450.0"
+    },
+    {
+        "name": "Ethereum",
+        "price": "$180.95",
+        "percent_change": "-0.11%",
+        "market_cap": "$19,483,538,258",
+        "volume": "$6,838,415,829",
+        "circulating_supply": "107673371.749"
+    },
+    {
+        "name": "XRP",
+        "price": "$0.260361",
+        "percent_change": "-1.15%",
+        "market_cap": "$11,191,516,314",
+        "volume": "$1,069,676,679",
+        "circulating_supply": "42984656144.0"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "price": "$306.02",
+        "percent_change": "0.34%",
+        "market_cap": "$5,506,456,531",
+        "volume": "$1,451,341,431",
+        "circulating_supply": "17994062.5"
+    },
+    {
+        "name": "Litecoin",
+        "price": "$69.84",
+        "percent_change": "-0.43%",
+        "market_cap": "$4,415,272,244",
+        "volume": "$2,552,826,331",
+        "circulating_supply": "63218354.1355"
+    },
+    {
+        "name": "Tether",
+        "price": "$1.00",
+        "percent_change": "-0.28%",
+        "market_cap": "$4,091,503,930",
+        "volume": "$19,199,950,687",
+        "circulating_supply": "4076193567.81"
+    },
+    {
+        "name": "EOS",
+        "price": "$3.88",
+        "percent_change": "4.40%",
+        "market_cap": "$3,614,233,966",
+        "volume": "$2,585,832,407",
+        "circulating_supply": "931026216.728"
+    },
+    {
+        "name": "Binance Coin",
+        "price": "$22.24",
+        "percent_change": "-0.92%",
+        "market_cap": "$3,459,071,570",
+        "volume": "$151,294,180",
+        "circulating_supply": "155536713.0"
+    },
+    {
+        "name": "Bitcoin SV",
+        "price": "$130.57",
+        "percent_change": "-3.23%",
+        "market_cap": "$2,331,367,492",
+        "volume": "$336,095,005",
+        "circulating_supply": "17854985.7509"
+    },
+    {
+        "name": "Monero",
+        "price": "$75.49",
+        "percent_change": "-2.63%",
+        "market_cap": "$1,298,358,480",
+        "volume": "$50,875,449",
+        "circulating_supply": "17199681.1722"
+    },
+    {
+        "name": "Cardano",
+        "price": "$0.046626",
+        "percent_change": "-1.15%",
+        "market_cap": "$1,208,877,847",
+        "volume": "$58,035,348",
+        "circulating_supply": "25927070538.0"
+    },
+    {
+        "name": "Stellar",
+        "price": "$0.060382",
+        "percent_change": "-0.35%",
+        "market_cap": "$1,192,378,640",
+        "volume": "$177,252,464",
+        "circulating_supply": "19747411451.6"
+    },
+    {
+        "name": "TRON",
+        "price": "$0.015786",
+        "percent_change": "0.44%",
+        "market_cap": "$1,052,671,323",
+        "volume": "$611,655,944",
+        "circulating_supply": "66682072191.4"
+    },
+    {
+        "name": "UNUS SED LEO",
+        "price": "$1.05",
+        "percent_change": "-2.14%",
+        "market_cap": "$1,050,841,991",
+        "volume": "$4,742,502",
+        "circulating_supply": "999498892.9"
+    },
+    {
+        "name": "Huobi Token",
+        "price": "$4.03",
+        "percent_change": "-0.29%",
+        "market_cap": "$990,786,703",
+        "volume": "$65,434,361",
+        "circulating_supply": "245880576.066"
+    },
+    {
+        "name": "Dash",
+        "price": "$86.95",
+        "percent_change": "-0.30%",
+        "market_cap": "$785,190,157",
+        "volume": "$181,599,696",
+        "circulating_supply": "9029932.45979"
+    },
+    {
+        "name": "Ethereum Classic",
+        "price": "$6.57",
+        "percent_change": "-1.54%",
+        "market_cap": "$744,986,069",
+        "volume": "$551,860,399",
+        "circulating_supply": "113340547.0"
+    },
+    {
+        "name": "Tezos",
+        "price": "$1.05",
+        "percent_change": "0.16%",
+        "market_cap": "$692,122,252",
+        "volume": "$10,965,673",
+        "circulating_supply": "660373611.973"
+    },
+    {
+        "name": "IOTA",
+        "price": "$0.238739",
+        "percent_change": "-2.75%",
+        "market_cap": "$663,583,016",
+        "volume": "$4,978,695",
+        "circulating_supply": "2779530283.0"
+    },
+    {
+        "name": "NEO",
+        "price": "$9.12",
+        "percent_change": "-1.81%",
+        "market_cap": "$643,221,125",
+        "volume": "$243,122,146",
+        "circulating_supply": "70538831.0"
+    },
+    {
+        "name": "Chainlink",
+        "price": "$1.81",
+        "percent_change": "-3.30%",
+        "market_cap": "$634,014,142",
+        "volume": "$92,303,756",
+        "circulating_supply": "350000000.0"
+    },
+    {
+        "name": "Cosmos",
+        "price": "$2.83",
+        "percent_change": "10.13%",
+        "market_cap": "$539,853,203",
+        "volume": "$228,659,926",
+        "circulating_supply": "190688439.2"
+    },
+    {
+        "name": "Maker",
+        "price": "$478.33",
+        "percent_change": "6.71%",
+        "market_cap": "$478,326,792",
+        "volume": "$12,774,363",
+        "circulating_supply": "1000000.0"
+    },
+    {
+        "name": "USD Coin",
+        "price": "$1.00",
+        "percent_change": "-0.12%",
+        "market_cap": "$440,777,593",
+        "volume": "$289,522,854",
+        "circulating_supply": "439174256.341"
+    },
+    {
+        "name": "NEM",
+        "price": "$0.045732",
+        "percent_change": "-3.78%",
+        "market_cap": "$411,591,838",
+        "volume": "$35,655,144",
+        "circulating_supply": "8999999999.0"
+    },
+    {
+        "name": "Ontology",
+        "price": "$0.756378",
+        "percent_change": "0.24%",
+        "market_cap": "$403,439,812",
+        "volume": "$76,788,138",
+        "circulating_supply": "533383967.0"
+    },
+    {
+        "name": "Crypto.com Chain",
+        "price": "$0.039071",
+        "percent_change": "-1.94%",
+        "market_cap": "$378,671,483",
+        "volume": "$10,476,647",
+        "circulating_supply": "9691780821.92"
+    },
+    {
+        "name": "Zcash",
+        "price": "$46.95",
+        "percent_change": "-3.15%",
+        "market_cap": "$346,373,650",
+        "volume": "$139,334,995",
+        "circulating_supply": "7377418.75"
+    },
+    {
+        "name": "Dogecoin",
+        "price": "$0.002457",
+        "percent_change": "-2.11%",
+        "market_cap": "$297,616,667",
+        "volume": "$34,222,982",
+        "circulating_supply": "1.21134260846e+11"
+    },
+    {
+        "name": "V Systems",
+        "price": "$0.150805",
+        "percent_change": "0.83%",
+        "market_cap": "$271,474,940",
+        "volume": "$6,241,100",
+        "circulating_supply": "1800168824.0"
+    },
+    {
+        "name": "HedgeTrade",
+        "price": "$0.931912",
+        "percent_change": "1.30%",
+        "market_cap": "$268,757,221",
+        "volume": "$512,201",
+        "circulating_supply": "288393355.057"
+    },
+    {
+        "name": "Decred",
+        "price": "$24.27",
+        "percent_change": "-2.73%",
+        "market_cap": "$251,411,547",
+        "volume": "$8,827,104",
+        "circulating_supply": "10360657.0858"
+    },
+    {
+        "name": "Paxos Standar...",
+        "price": "$1.00",
+        "percent_change": "-0.42%",
+        "market_cap": "$236,318,132",
+        "volume": "$405,861,975",
+        "circulating_supply": "236076702.855"
+    },
+    {
+        "name": "Basic Attenti...",
+        "price": "$0.171698",
+        "percent_change": "-3.10%",
+        "market_cap": "$229,512,810",
+        "volume": "$25,261,355",
+        "circulating_supply": "1336725522.33"
+    },
+    {
+        "name": "VeChain",
+        "price": "$0.003942",
+        "percent_change": "-1.10%",
+        "market_cap": "$218,612,453",
+        "volume": "$28,416,470",
+        "circulating_supply": "55454734800.0"
+    },
+    {
+        "name": "Qtum",
+        "price": "$2.06",
+        "percent_change": "-3.28%",
+        "market_cap": "$198,197,463",
+        "volume": "$165,160,854",
+        "circulating_supply": "96005024.0485"
+    },
+    {
+        "name": "TrueUSD",
+        "price": "$1.00",
+        "percent_change": "-0.16%",
+        "market_cap": "$195,038,745",
+        "volume": "$492,450,002",
+        "circulating_supply": "194415438.08"
+    },
+    {
+        "name": "Bitcoin Gold",
+        "price": "$10.80",
+        "percent_change": "0.82%",
+        "market_cap": "$189,213,389",
+        "volume": "$13,989,367",
+        "circulating_supply": "17513923.589"
+    },
+    {
+        "name": "ZB",
+        "price": "$0.343351",
+        "percent_change": "1.70%",
+        "market_cap": "$159,070,640",
+        "volume": "$87,994,091",
+        "circulating_supply": "463288810.0"
+    },
+    {
+        "name": "OmiseGO",
+        "price": "$1.07",
+        "percent_change": "-1.66%",
+        "market_cap": "$149,873,556",
+        "volume": "$40,447,916",
+        "circulating_supply": "140245398.245"
+    },
+    {
+        "name": "Ravencoin",
+        "price": "$0.031154",
+        "percent_change": "-4.05%",
+        "market_cap": "$136,515,366",
+        "volume": "$13,357,532",
+        "circulating_supply": "4382020000.0"
+    },
+    {
+        "name": "KuCoin Shares",
+        "price": "$1.54",
+        "percent_change": "3.77%",
+        "market_cap": "$135,777,001",
+        "volume": "$12,068,514",
+        "circulating_supply": "88019600.0"
+    },
+    {
+        "name": "Lisk",
+        "price": "$1.04",
+        "percent_change": "-3.39%",
+        "market_cap": "$125,267,575",
+        "volume": "$1,787,996",
+        "circulating_supply": "119991668.198"
+    },
+    {
+        "name": "BitTorrent",
+        "price": "$0.000588",
+        "percent_change": "2.00%",
+        "market_cap": "$124,623,692",
+        "volume": "$77,561,120",
+        "circulating_supply": "2.121165e+11"
+    },
+    {
+        "name": "Insight Chain",
+        "price": "$0.353014",
+        "percent_change": "7.13%",
+        "market_cap": "$123,520,453",
+        "volume": "$14,224,501",
+        "circulating_supply": "349902689.082"
+    },
+    {
+        "name": "Nano",
+        "price": "$0.917414",
+        "percent_change": "-0.91%",
+        "market_cap": "$122,243,849",
+        "volume": "$2,676,741",
+        "circulating_supply": "133248297.197"
+    },
+    {
+        "name": "Augur",
+        "price": "$10.59",
+        "percent_change": "-3.52%",
+        "market_cap": "$116,516,797",
+        "volume": "$8,134,695",
+        "circulating_supply": "11000000.0"
+    },
+    {
+        "name": "Algorand",
+        "price": "$0.368022",
+        "percent_change": "0.20%",
+        "market_cap": "$116,187,058",
+        "volume": "$53,906,117",
+        "circulating_supply": "315706464.188"
+    },
+    {
+        "name": "Bitcoin Diamond",
+        "price": "$0.612051",
+        "percent_change": "1.36%",
+        "market_cap": "$114,143,080",
+        "volume": "$2,754,843",
+        "circulating_supply": "186492897.953"
+    },
+    {
+        "name": "Holo",
+        "price": "$0.000850",
+        "percent_change": "4.18%",
+        "market_cap": "$113,195,095",
+        "volume": "$7,163,415",
+        "circulating_supply": "1.33214575156e+11"
+    },
+    {
+        "name": "Waves",
+        "price": "$1.08",
+        "percent_change": "0.48%",
+        "market_cap": "$107,722,748",
+        "volume": "$10,049,564",
+        "circulating_supply": "100000000.0"
+    },
+    {
+        "name": "THETA",
+        "price": "$0.116548",
+        "percent_change": "-2.57%",
+        "market_cap": "$101,455,749",
+        "volume": "$692,636",
+        "circulating_supply": "870502690.0"
+    },
+    {
+        "name": "DigiByte",
+        "price": "$0.008188",
+        "percent_change": "1.68%",
+        "market_cap": "$100,264,682",
+        "volume": "$3,182,321",
+        "circulating_supply": "12244842590.2"
+    },
+    {
+        "name": "ICON",
+        "price": "$0.202120",
+        "percent_change": "-1.16%",
+        "market_cap": "$99,611,874",
+        "volume": "$8,335,616",
+        "circulating_supply": "492835268.578"
+    },
+    {
+        "name": "0x",
+        "price": "$0.161473",
+        "percent_change": "-1.72%",
+        "market_cap": "$96,960,581",
+        "volume": "$6,480,599",
+        "circulating_supply": "600475853.405"
+    },
+    {
+        "name": "HyperCash",
+        "price": "$2.16",
+        "percent_change": "-3.73%",
+        "market_cap": "$93,973,801",
+        "volume": "$7,282,636",
+        "circulating_supply": "43529780.8651"
+    },
+    {
+        "name": "BitShares",
+        "price": "$0.033956",
+        "percent_change": "2.92%",
+        "market_cap": "$93,091,794",
+        "volume": "$2,356,013",
+        "circulating_supply": "2741570000.0"
+    },
+    {
+        "name": "MaidSafeCoin",
+        "price": "$0.204707",
+        "percent_change": "0.69%",
+        "market_cap": "$92,640,607",
+        "volume": "$380,361",
+        "circulating_supply": "452552412.0"
+    },
+    {
+        "name": "Bytecoin",
+        "price": "$0.000497",
+        "percent_change": "-0.20%",
+        "market_cap": "$91,550,168",
+        "volume": "$11,894",
+        "circulating_supply": "1.84066828814e+11"
+    },
+    {
+        "name": "Lambda",
+        "price": "$0.145194",
+        "percent_change": "-2.36%",
+        "market_cap": "$91,412,223",
+        "volume": "$55,259,224",
+        "circulating_supply": "629586732.685"
+    },
+    {
+        "name": "Komodo",
+        "price": "$0.741326",
+        "percent_change": "-0.64%",
+        "market_cap": "$85,869,527",
+        "volume": "$3,573,033",
+        "circulating_supply": "115832288.443"
+    },
+    {
+        "name": "Pundi X",
+        "price": "$0.000369",
+        "percent_change": "-0.97%",
+        "market_cap": "$86,889,449",
+        "volume": "$1,653,308",
+        "circulating_supply": "2.35621468515e+11"
+    },
+    {
+        "name": "Aurora",
+        "price": "$0.013050",
+        "percent_change": "1.27%",
+        "market_cap": "$85,378,839",
+        "volume": "$3,027,055",
+        "circulating_supply": "6542330148.21"
+    },
+    {
+        "name": "Nash Exchange",
+        "price": "$2.35",
+        "percent_change": "5.60%",
+        "market_cap": "$85,161,329",
+        "volume": "$3,366,725",
+        "circulating_supply": "36196678.0"
+    },
+    {
+        "name": "IOST",
+        "price": "$0.007044",
+        "percent_change": "1.19%",
+        "market_cap": "$84,620,505",
+        "volume": "$23,359,572",
+        "circulating_supply": "12013965608.8"
+    },
+    {
+        "name": "Dai",
+        "price": "$1.01",
+        "percent_change": "-0.16%",
+        "market_cap": "$79,070,243",
+        "volume": "$22,664,991",
+        "circulating_supply": "78652330.6073"
+    },
+    {
+        "name": "Bytom",
+        "price": "$0.077693",
+        "percent_change": "-3.72%",
+        "market_cap": "$77,887,459",
+        "volume": "$6,021,003",
+        "circulating_supply": "1002499275.0"
+    },
+    {
+        "name": "Siacoin",
+        "price": "$0.001822",
+        "percent_change": "-2.75%",
+        "market_cap": "$76,210,018",
+        "volume": "$1,389,969",
+        "circulating_supply": "41817047634.0"
+    },
+    {
+        "name": "MonaCoin",
+        "price": "$1.10",
+        "percent_change": "-2.46%",
+        "market_cap": "$72,174,265",
+        "volume": "$966,731",
+        "circulating_supply": "65729674.8712"
+    },
+    {
+        "name": "Verge",
+        "price": "$0.004354",
+        "percent_change": "-3.21%",
+        "market_cap": "$69,358,169",
+        "volume": "$1,186,662",
+        "circulating_supply": "15928046579.1"
+    },
+    {
+        "name": "Energi",
+        "price": "$3.41",
+        "percent_change": "-13.97%",
+        "market_cap": "$69,376,922",
+        "volume": "$548,876",
+        "circulating_supply": "20358723.86"
+    },
+    {
+        "name": "RIF Token",
+        "price": "$0.139557",
+        "percent_change": "-2.64%",
+        "market_cap": "$66,705,813",
+        "volume": "$3,919,590",
+        "circulating_supply": "477980956.857"
+    },
+    {
+        "name": "Quant",
+        "price": "$5.27",
+        "percent_change": "0.15%",
+        "market_cap": "$63,585,091",
+        "volume": "$2,792,638",
+        "circulating_supply": "12072738.0"
+    },
+    {
+        "name": "Ardor",
+        "price": "$0.060448",
+        "percent_change": "5.55%",
+        "market_cap": "$60,387,390",
+        "volume": "$4,878,279",
+        "circulating_supply": "998999495.0"
+    },
+    {
+        "name": "Zilliqa",
+        "price": "$0.006906",
+        "percent_change": "-0.64%",
+        "market_cap": "$59,992,787",
+        "volume": "$7,077,437",
+        "circulating_supply": "8687360058.09"
+    },
+    {
+        "name": "Enjin Coin",
+        "price": "$0.077295",
+        "percent_change": "-6.48%",
+        "market_cap": "$60,007,421",
+        "volume": "$4,473,939",
+        "circulating_supply": "776341213.064"
+    },
+    {
+        "name": "Aeternity",
+        "price": "$0.205343",
+        "percent_change": "-3.76%",
+        "market_cap": "$57,982,792",
+        "volume": "$37,998,320",
+        "circulating_supply": "282371109.5"
+    },
+    {
+        "name": "Golem",
+        "price": "$0.059873",
+        "percent_change": "3.12%",
+        "market_cap": "$57,744,672",
+        "volume": "$2,203,741",
+        "circulating_supply": "964450000.0"
+    },
+    {
+        "name": "Steem",
+        "price": "$0.163572",
+        "percent_change": "-3.19%",
+        "market_cap": "$56,271,932",
+        "volume": "$585,965",
+        "circulating_supply": "344018306.797"
+    },
+    {
+        "name": "Status",
+        "price": "$0.015423",
+        "percent_change": "-1.75%",
+        "market_cap": "$53,526,243",
+        "volume": "$16,332,984",
+        "circulating_supply": "3470483788.0"
+    },
+    {
+        "name": "Crypto.com",
+        "price": "$3.19",
+        "percent_change": "-2.02%",
+        "market_cap": "$50,440,066",
+        "volume": "$3,848,561",
+        "circulating_supply": "15793831.095"
+    },
+    {
+        "name": "Synthetix Net...",
+        "price": "$0.384136",
+        "percent_change": "1.85%",
+        "market_cap": "$49,408,304",
+        "volume": "$24,476",
+        "circulating_supply": "128621862.066"
+    },
+    {
+        "name": "WINk",
+        "price": "$0.000251",
+        "percent_change": "-0.50%",
+        "market_cap": "$49,295,743",
+        "volume": "$9,735,058",
+        "circulating_supply": "1.96500113934e+11"
+    },
+    {
+        "name": "GXChain",
+        "price": "$0.754232",
+        "percent_change": "-2.01%",
+        "market_cap": "$49,025,065",
+        "volume": "$7,410,332",
+        "circulating_supply": "65000000.0"
+    },
+    {
+        "name": "Nexo",
+        "price": "$0.086043",
+        "percent_change": "4.71%",
+        "market_cap": "$48,184,077",
+        "volume": "$7,457,545",
+        "circulating_supply": "560000011.0"
+    },
+    {
+        "name": "Zcoin",
+        "price": "$5.62",
+        "percent_change": "8.52%",
+        "market_cap": "$46,851,534",
+        "volume": "$5,436,447",
+        "circulating_supply": "8332843.32978"
+    },
+    {
+        "name": "ABBC Coin",
+        "price": "$0.082649",
+        "percent_change": "-0.33%",
+        "market_cap": "$45,812,738",
+        "volume": "$31,177,819",
+        "circulating_supply": "554307761.97"
+    },
+    {
+        "name": "Waltonchain",
+        "price": "$1.03",
+        "percent_change": "-2.92%",
+        "market_cap": "$43,528,744",
+        "volume": "$2,779,238",
+        "circulating_supply": "42314618.4107"
+    },
+    {
+        "name": "Beam",
+        "price": "$1.20",
+        "percent_change": "-0.21%",
+        "market_cap": "$42,563,368",
+        "volume": "$67,678,966",
+        "circulating_supply": "35596320.0"
+    },
+    {
+        "name": "Metaverse ETP",
+        "price": "$0.558146",
+        "percent_change": "-7.39%",
+        "market_cap": "$42,517,156",
+        "volume": "$2,878,337",
+        "circulating_supply": "76175687.2323"
+    },
+    {
+        "name": "aelf",
+        "price": "$0.082588",
+        "percent_change": "-1.25%",
+        "market_cap": "$41,275,993",
+        "volume": "$7,831,390",
+        "circulating_supply": "499779999.986"
+    },
+    {
+        "name": "XMax",
+        "price": "$0.002427",
+        "percent_change": "-4.26%",
+        "market_cap": "$41,219,607",
+        "volume": "$1,989,654",
+        "circulating_supply": "16981287427.6"
+    },
+    {
+        "name": "Grin",
+        "price": "$1.99",
+        "percent_change": "-1.92%",
+        "market_cap": "$40,665,594",
+        "volume": "$40,959,272",
+        "circulating_supply": "20403840.0"
+    },
+    {
+        "name": "WAX",
+        "price": "$0.041405",
+        "percent_change": "0.73%",
+        "market_cap": "$39,037,915",
+        "volume": "$22,476",
+        "circulating_supply": "942821661.702"
+    },
+    {
+        "name": "ReddCoin",
+        "price": "$0.001340",
+        "percent_change": "-0.26%",
+        "market_cap": "$38,593,039",
+        "volume": "$197,681",
+        "circulating_supply": "28808713173.8"
+    },
+    {
+        "name": "Dragon Coins",
+        "price": "$0.110367",
+        "percent_change": "-0.42%",
+        "market_cap": "$38,439,949",
+        "volume": "$24,423",
+        "circulating_supply": "348292412.169"
+    },
+    {
+        "name": "SOLVE",
+        "price": "$0.116782",
+        "percent_change": "-3.77%",
+        "market_cap": "$38,234,906",
+        "volume": "$481,923",
+        "circulating_supply": "327404057.659"
+    },
+    {
+        "name": "Stratis",
+        "price": "$0.379232",
+        "percent_change": "-3.52%",
+        "market_cap": "$37,725,698",
+        "volume": "$1,406,935",
+        "circulating_supply": "99479123.17"
+    },
+    {
+        "name": "Elastos",
+        "price": "$2.33",
+        "percent_change": "-0.67%",
+        "market_cap": "$37,254,358",
+        "volume": "$5,095,379",
+        "circulating_supply": "15987408.6304"
+    },
+    {
+        "name": "Ren",
+        "price": "$0.045472",
+        "percent_change": "-10.66%",
+        "market_cap": "$36,177,119",
+        "volume": "$5,123,681",
+        "circulating_supply": "795594931.024"
+    }
+]
